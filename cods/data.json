@@ -1,0 +1,407 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "genre_ids": [
+        10749,
+        878,
+        53
+      ],
+      "id": 950396,
+      "original_language": "en",
+      "original_title": "The Gorge",
+      "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "popularity": 3135.209,
+      "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "release_date": "2025-02-13",
+      "title": "The Gorge",
+      "video": false,
+      "vote_average": 7.791,
+      "vote_count": 1585
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gFFqWsjLjRfipKzlzaYPD097FNC.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1126166,
+      "original_language": "en",
+      "original_title": "Flight Risk",
+      "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+      "popularity": 2568.332,
+      "poster_path": "/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
+      "release_date": "2025-01-22",
+      "title": "Flight Risk",
+      "video": false,
+      "vote_average": 6.038,
+      "vote_count": 352
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "id": 762509,
+      "original_language": "en",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "popularity": 2050.558,
+      "poster_path": "/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+      "release_date": "2024-12-18",
+      "title": "Mufasa: The Lion King",
+      "video": false,
+      "vote_average": 7.467,
+      "vote_count": 1499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "id": 939243,
+      "original_language": "en",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "popularity": 1976.892,
+      "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "release_date": "2024-12-19",
+      "title": "Sonic the Hedgehog 3",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 2047
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        35
+      ],
+      "id": 1241982,
+      "original_language": "en",
+      "original_title": "Moana 2",
+      "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "popularity": 1861.245,
+      "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "release_date": "2024-11-21",
+      "title": "Moana 2",
+      "video": false,
+      "vote_average": 7.149,
+      "vote_count": 1761
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 822119,
+      "original_language": "en",
+      "original_title": "Captain America: Brave New World",
+      "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+      "popularity": 1295.113,
+      "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "release_date": "2025-02-12",
+      "title": "Captain America: Brave New World",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 837
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
+      "genre_ids": [
+        28,
+        18,
+        12,
+        10752
+      ],
+      "id": 927342,
+      "original_language": "ta",
+      "original_title": "அமரன்",
+      "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+      "popularity": 1329.454,
+      "poster_path": "/nv5DrlFpIYIPYhwvP2wg8VjdPwl.jpg",
+      "release_date": "2024-10-31",
+      "title": "Amaran",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 176
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 1084199,
+      "original_language": "en",
+      "original_title": "Companion",
+      "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+      "popularity": 1222.243,
+      "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "release_date": "2025-01-22",
+      "title": "Companion",
+      "video": false,
+      "vote_average": 7.069,
+      "vote_count": 617
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1160956,
+      "original_language": "zh",
+      "original_title": "熊猫计划",
+      "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+      "popularity": 1005.555,
+      "poster_path": "/xVS9XiO9upp2SnWx6KpBYb79hLR.jpg",
+      "release_date": "2024-10-01",
+      "title": "Panda Plan",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 146
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 539972,
+      "original_language": "en",
+      "original_title": "Kraven the Hunter",
+      "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+      "popularity": 886.374,
+      "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "release_date": "2024-12-11",
+      "title": "Kraven the Hunter",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1336
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        35,
+        28
+      ],
+      "id": 774370,
+      "original_language": "en",
+      "original_title": "Dog Man",
+      "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve—and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+      "popularity": 722.633,
+      "poster_path": "/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+      "release_date": "2025-01-24",
+      "title": "Dog Man",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 133
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 912649,
+      "original_language": "en",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "popularity": 820.402,
+      "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "release_date": "2024-10-22",
+      "title": "Venom: The Last Dance",
+      "video": false,
+      "vote_average": 6.788,
+      "vote_count": 2950
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 823219,
+      "original_language": "lv",
+      "original_title": "Straume",
+      "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+      "popularity": 885.787,
+      "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+      "release_date": "2024-08-29",
+      "title": "Flow",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 1266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bHeUgZKqduubnNl8GshjrpHS9lF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 558449,
+      "original_language": "en",
+      "original_title": "Gladiator II",
+      "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "popularity": 729.732,
+      "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "release_date": "2024-11-13",
+      "title": "Gladiator II",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 2934
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iKXXPYBWQ0B6BMRHAFbg3wKafWb.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 549509,
+      "original_language": "en",
+      "original_title": "The Brutalist",
+      "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
+      "popularity": 1065.25,
+      "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "release_date": "2024-12-20",
+      "title": "The Brutalist",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 685
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 933260,
+      "original_language": "en",
+      "original_title": "The Substance",
+      "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "popularity": 970.749,
+      "poster_path": "/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg",
+      "release_date": "2024-09-07",
+      "title": "The Substance",
+      "video": false,
+      "vote_average": 7.127,
+      "vote_count": 4032
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1249289,
+      "original_language": "en",
+      "original_title": "Alarum",
+      "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum. Watch Here : https://justwatch.pro/movie/1249289/alarum",
+      "popularity": 578.695,
+      "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+      "release_date": "2025-01-16",
+      "title": "Alarum",
+      "video": false,
+      "vote_average": 5.792,
+      "vote_count": 216
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10749
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 1016.68,
+      "poster_path": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1271
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 1064486,
+      "original_language": "en",
+      "original_title": "Memoir of a Snail",
+      "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "popularity": 664.263,
+      "poster_path": "/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg",
+      "release_date": "2024-10-17",
+      "title": "Memoir of a Snail",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 224
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
+      "genre_ids": [
+        35,
+        10749,
+        28
+      ],
+      "id": 1201012,
+      "original_language": "hi",
+      "original_title": "धूम धाम",
+      "overview": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+      "popularity": 568.961,
+      "poster_path": "/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+      "release_date": "2025-02-13",
+      "title": "Dhoom Dhaam",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 20
+    }
+  ],
+  "total_pages": 48975,
+  "total_results": 979495
+}
