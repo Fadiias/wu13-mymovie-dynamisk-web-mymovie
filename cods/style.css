@@ -4,17 +4,12 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-html{
-    min-width: 100vw;
-}
+
 /* Light Theme (Default) */
 body {
     background-color: #ffffff;
     color: #000000;
     transition: background 0.1s, color 0.3s;
-    place-self: center;
-
-
 }
 
 body.dark-mode {
@@ -137,9 +132,9 @@ body.dark-mode .description-text {
         overflow-x: auto;
         white-space: nowrap;
         scroll-snap-type: x mandatory;
-        animation: scrollMovies 15s linear infinite;
-        margin-left: 0.5em;
-        width: 375px;
+    
+      
+
 }
 
 /* Movie Card */
@@ -344,42 +339,21 @@ i.fa-ticket-simple {
     margin-bottom: 7em;
 }
 
-@media (max-width: 375px) {
-    
-    .container {
-        grid-template-rows: 50px 50px 50px 50px 50px 50px;
-        grid-template-columns: 1fr;
-        grid-template-areas: "header" "nav" "footer" "main" "aside";
-    }
 
-
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-
-    .item {
-        flex: 1 1 250px;
-        padding: 20px;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-}
 #home{
     border-bottom: solid;
 }
 
 #movies{
-    box-shadow: inset -20px 1px 20px 0px rgb(120 120 120 / 36%);
-    border-right: solid 6px #0000004a;
+    box-shadow: inset -10px -20px 20px 0px rgb(120 120 120 / 36%);
+    border-right: solid 6px #ffffff4a;
 }
 
 
+
+
+
 body.dark-mode #movies{
-    box-shadow: inset -13px -1px 20px 0px rgb(32 84 176 / 94%);
-    border-right: solid 5px rgb(0 31 106);
+    box-shadow: inset -6px -20px 20px 0px rgb(32 84 176 / 94%);
+  border: none;
 }

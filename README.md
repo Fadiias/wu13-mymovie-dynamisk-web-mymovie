@@ -45,8 +45,12 @@ fetch("https://api.themoviedb.org/3/trending/movie/week", {
     accept: 'application/json',
     Authorization: 'Bearer //indsæt din token her...'
   }
+  }
 // Det henter alle film som trender i denne uge.
 ```
+
+
+
 
 Du får en api nøgle ved at registrere en bruger. Det er gratis, men du skal oplyse en del ting for at få nøglen. Hvis du ikke er vild med at oplyse din egen adresse kan du jo oplyse en fiktiv adresse i nærheden af hvor du bor, eller i nærheden af skolen. Brug dog din skole email, da du skal verificere din bruger for at få nøglen.
 
@@ -62,3 +66,4 @@ https://developers.themoviedb.org/3/getting-started/images
 ```
 
 
+https://nataskiflix.netlify.app/ 
